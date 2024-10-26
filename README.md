@@ -1,4 +1,4 @@
-## Hello 👋:
+## Hello 👋
 I am Aimad Sadouk, a data analyst skilled in SQL, Power BI, Python, and machine learning, passionate about turning data into actionable insights. With a background in computer science and business management, I create impactful visualizations and practical data solutions to drive informed decisions and organizational success.
 
 ---
