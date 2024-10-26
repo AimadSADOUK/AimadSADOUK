@@ -15,5 +15,5 @@
 ---
 
 ### Let's Connect
-- **LinkedIn**: [linkedin.com/in/aimad-sadouk](https://www.linkedin.com/in/aimad-sadouk/)
+- **LinkedIn**: [linkedin.com/in/aimad-sadouk](https://www.linkedin.com/in/aimad-sadouk-35a928226/)
 - **Email**: [sadouk.aimad@gmail.com](mailto:sadouk.aimad@gmail.com)
